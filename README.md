@@ -1,1 +1,1 @@
-# tccd-battlecode.github.io
+# Welcome To the Battle!

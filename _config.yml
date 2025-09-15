@@ -28,9 +28,9 @@ url: https://tccd-battlecode.github.io # the base hostname & protocol for your s
 github_username:  michaelnutt2
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.

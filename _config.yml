@@ -29,6 +29,7 @@ github_username:  michaelnutt2
 
 # Build settings
 # remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-hacker
 plugins:
   # - jekyll-remote-theme
   - jekyll-feed

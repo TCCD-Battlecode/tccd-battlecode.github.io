@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Welcome to the Battle
+
+TCCD Battlecode Competition

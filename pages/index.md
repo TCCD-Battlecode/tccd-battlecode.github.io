@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Welcome to the Battle
 ---
-# Welcome to the Battle
-
-TCCD Battlecode Competition
+## TCCD Battlecode Competition

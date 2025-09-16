@@ -6,4 +6,8 @@ layout: default
 title: Welcome to the Battle
 permalink: /
 ---
-## TCCD Battlecode Competition
+## Welcome to the Battle
+
+Welcome to TCC NW's first annual Battlecode competition!
+
+Since this is our first time running the competition, a lot of the planning and implementation is subject to change based on participation and just any other factors that could come up during the tournament period.

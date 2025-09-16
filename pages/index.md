@@ -4,5 +4,6 @@
 
 layout: default
 title: Welcome to the Battle
+permalink: /
 ---
 ## TCCD Battlecode Competition

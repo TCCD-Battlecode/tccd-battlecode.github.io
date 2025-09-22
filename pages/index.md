@@ -14,4 +14,4 @@ Battlecode is an exciting competition that pits teams of 1-4 students against ea
 
 We will be holding information sessions for starting Battlecode running from September 29th to October 2nd, from 12pm-4pm in NW04 1123.
 
-The tournament itself will be held later this semester. We will also be having weekly practice/coding sessions, you can find more details on that [here](/sessions/).
+The tournament itself will be held later this semester. We will also be having weekly practice/coding sessions, and you can find more details on the [sessions page](/sessions/).

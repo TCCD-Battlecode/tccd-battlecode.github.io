@@ -14,3 +14,15 @@ _For the past two centuries, these bunnies have stayed within their own territor
 * * *
 
 ## Team Creation
+
+In order to participate, you will need to have a GitHub.com account, and a team. Each team can consist of 1 to 4 people. When you form your team, you need to come up with a **school appropriate** team name to compete under.
+
+* * *
+
+## Installation and Setup
+
+You can set up the Battlecode tools and engine on your personal computer, or you can use a Codespace that has been set up for the Battlecode Participant repository.
+
+### Getting Started
+
+Before anything else, you'll need to have one member of the team create your team GitHub repo by going to the Battlecode Scaffold and clicking on "Use this template." Make sure you set the new repo to Private (you don't want other teams to view your code) when creating the repository. Use your team name as the repo name.

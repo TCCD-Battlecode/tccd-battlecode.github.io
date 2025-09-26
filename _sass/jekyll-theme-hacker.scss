@@ -32,6 +32,18 @@ body {
   margin: 0 auto;
 }
 
+.header img {
+  float: left;
+  width: 96px;
+  height: 96px;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 section {
   display: block;
   margin: 0 0 20px 0;

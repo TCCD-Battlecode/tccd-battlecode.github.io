@@ -36,3 +36,4 @@ Once your team has been created on GitHub, you can go to your team organization 
 You now have your codespace ready! You can view an example bot code by looking in the `examplefuncsplayer` folder. I recommend creating a new folder and copying the example bot into the new folder to create your own code, this way you can refer back to the example as you work.
 
 Working in your teams on this code will require you to become familiar with Git and GitHub. Each Codespace is a virtual computer and every member on the team will have their own Codespace. For your team members to view the code, you will need to `add`, `commit`, and `push` your code to GitHub, and then `pull` down updates. You can refer to the [Battlecode Player's GitHub Guide](/github/) for more information.
+

@@ -16,4 +16,6 @@ We will be holding information sessions for starting Battlecode running from Sep
 
 The tournament itself will be held later this semester. We will also be having weekly practice/coding sessions, and you can find more details on the [sessions page](/sessions/).
 
+### GOOD LUCK!
+
 ![Battlecode](/assets/images/BattlecodeLogo.png)

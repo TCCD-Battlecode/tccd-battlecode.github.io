@@ -6,6 +6,8 @@
   link: /quick_start/
 - name: Registration
   link: /registration/
+- name: The Battlecode Player's Guide to GitHub
+  link: /github/
 # - name: Practice Sessions Schedule
 #   link: /practice_schedule/
 # - name: Tournament Schedule

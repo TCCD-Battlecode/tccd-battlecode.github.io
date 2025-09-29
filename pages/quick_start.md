@@ -27,13 +27,13 @@ You can set up the Battlecode tools and engine on your personal computer, or you
 
 Once your team has been created on GitHub, you can go to your team organization page and create your codespace following these steps:
 
-1. From your team organization page, click on the **Repositories** tab.
-2. Click on the code repo. It should be the only repo on there, but if not, it will be the one named `Battlecode-<TeamName>`.
-3. Click on the green **Code** button
-4. Click on the **Codespaces** tab, then on the **Create codespace on main** button. It will open a new window and work on creating the codespace. This will take several minutes the first time you run it, but will open much quicker every other time you open the same codespace.
-5. Once the codespace has opened, you will need to set up your environment for working with Battlecode by running the install process by typing `python ./run.py update` into the terminal. This will download the current engine and client. You can open the terminal by pressing Ctrl + \`.
+1. Go to the [GitHub Organization Teams Page](https://github.com/orgs/TCCD-Battlecode/teams) and click on your team.
+2. Click on the **Repositories** tab.
+3. Click on the code repo. It should be the only repo on there, but if not, it will be the one named `Battlecode-<TeamName>`.
+4. Click on the green **Code** button
+5. Click on the **Codespaces** tab, then on the **Create codespace on main** button. It will open a new window and work on creating the codespace. This will take several minutes the first time you run it, but will open much quicker every other time you open the same codespace.
+6. Once the codespace has opened, you will need to set up your environment for working with Battlecode by running the install process by typing `python ./run.py update` into the terminal. This will download the current engine and client. You can open the terminal by pressing Ctrl + \`.
 
 You now have your codespace ready! You can view an example bot code by looking in the `examplefuncsplayer` folder. I recommend creating a new folder and copying the example bot into the new folder to create your own code, this way you can refer back to the example as you work.
 
 Working in your teams on this code will require you to become familiar with Git and GitHub. Each Codespace is a virtual computer and every member on the team will have their own Codespace. For your team members to view the code, you will need to `add`, `commit`, and `push` your code to GitHub, and then `pull` down updates. You can refer to the [Battlecode Player's GitHub Guide](/github/) for more information.
-
